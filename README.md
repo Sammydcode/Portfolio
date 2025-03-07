@@ -1,7 +1,7 @@
 <!-- GitHub Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Sammydcode&color=blue)
 
-# Sammy Reels Tech  
+# AMADASUN SAMUEL OSARUONAMEN  
 ### Data Analyst | Python Developer | Machine Learning Enthusiast  
 
 A results-driven **data analyst and machine learning enthusiast** specializing in turning raw data into actionable insights. Proficient in **Python, SQL, Power BI, and machine learning**, with a strong foundation in statistical analysis and business intelligence. Passionate about data storytelling and building scalable data solutions.
