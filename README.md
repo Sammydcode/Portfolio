@@ -10,8 +10,8 @@ Welcome to my portfolio! I'm a data analyst passionate about uncovering insights
 **Description:**  
 An in-depth analysis of share investments across 2,000 companies, exploring stock trends, risk assessments, and investment opportunities using Python.  
 
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`  
-📂 [View Project](#)  
+**Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`  
+📂 [View Project]()  
 
 ---
 
