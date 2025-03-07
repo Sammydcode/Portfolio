@@ -17,27 +17,15 @@
 
 ---
 
-### 📌 Sales Performance Dashboard  
-📂 **[View Project](#)**  
-📄 **Description:** Built an interactive **Power BI dashboard** analyzing sales trends, revenue performance, and customer insights.  
-🛠 **Tech Stack:** `Power BI` `SQL` `Excel`  
 
----
-
-### 📌 Machine Learning Fraud Detection  
-📂 **[View Project](#)**  
-📄 **Description:** Developed a **fraud detection model** using supervised learning techniques to classify fraudulent transactions.  
-🛠 **Tech Stack:** `Python` `Scikit-Learn` `Machine Learning`  
-
----
 
 ## 📈 Skills & Technologies  
 
-- **Programming:** Python, SQL, R  
-- **Data Analysis & BI:** Power BI, Excel, Tableau  
-- **Machine Learning:** Scikit-Learn, TensorFlow  
-- **Databases:** MySQL, PostgreSQL  
-- **Version Control:** Git, GitHub  
+- **Programming:** `Python`, `SQL`  
+- **Data Analysis & BI:** `Power BI`, `Excel`  
+- **Machine Learning:** `Scikit-Learn`  
+- **Databases:** `MySQL` 
+- **Version Control:** `Git`, `GitHub`  
 
 ---
 
@@ -54,13 +42,13 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SammyReelsTech&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyReelsTech&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sammydcode&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammydcode&theme=dark" width="48%" />
 </p>
 
 <!-- Top Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyReelsTech&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammydcode&layout=compact&theme=dark" width="48%" />
 </p>
 
 ---
