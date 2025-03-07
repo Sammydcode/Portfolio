@@ -30,7 +30,7 @@ A results-driven **data analyst and machine learning enthusiast** specializing i
 
 ## Let's Connect  
 
-- **Email:** sammyonamen@gmail.com  
+- **Email:** [sammyonamen@gmail.com](sammyonamen@gmail.com)
 - **LinkedIn:** [Amadasun Samuel](https://www.linkedin.com/in/amadasun-samuel-a76292327)  
 - **GitHub:** [Sammy Reels Tech](https://github.com/Sammydcode)  
 - **Portfolio Website:** [Amadasun Samuel Osaruonamen](https://sammydcode.github.io/Portfolio)  
