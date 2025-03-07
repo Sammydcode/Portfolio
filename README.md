@@ -3,7 +3,7 @@
 
 
 # AMADASUN SAMUEL OSARUONAMEN  
-### Data Analyst | Python Developer | Machine Learning Enthusiast
+### Data Analyst || Data Scientist || Python Developer || Machine Learning Engineer
 
 A results-driven **data analyst and machine learning enthusiast** specializing in turning raw data into actionable insights. Proficient in **Python, SQL, Power BI, and machine learning**, with a strong foundation in statistical analysis and business intelligence. Passionate about data storytelling and building scalable data solutions.
 
