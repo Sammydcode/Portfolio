@@ -11,7 +11,7 @@ Welcome to my portfolio! I'm a data analyst passionate about uncovering insights
 An in-depth analysis of share investments across 2,000 companies, exploring stock trends, risk assessments, and investment opportunities using Python.  
 
 **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`  
-📂 [View Project]()  
+📂 [View Project](https://github.com/Sammydcode/Portfolio/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb)  
 
 ---
 
@@ -34,5 +34,5 @@ Another exciting project summary.
 ---
 
 ## 📫 Let's Connect!  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio Website](#)  
+📧 Email: sammyonamen@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/amadasun-samuel-a76292327) | [GitHub](#) | [Portfolio Website](#)  
