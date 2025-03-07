@@ -2,7 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sammydcode&color=blue)
 
 ## MY PORTFOLIO
----
 
 # AMADASUN SAMUEL OSARUONAMEN  
 ### Data Analyst | Python Developer | Machine Learning Enthusiast  
