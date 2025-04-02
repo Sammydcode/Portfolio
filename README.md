@@ -16,6 +16,11 @@ A results-driven **data analyst and machine learning enthusiast** specializing i
 **Description:** Conducted an in-depth analysis of **share investments across 2,000 companies**, identifying stock trends, risk factors, and optimal investment strategies.  
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
+### Share Investment Analysis  
+**[View Project](https://github.com/Sammydcode/Portfolio/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb)**  
+**Description:** Conducted an in-depth analysis of **share investments across 2,000 companies**, identifying stock trends, risk factors, and optimal investment strategies.  
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+
 ---
 
 ## Skills & Technologies  
