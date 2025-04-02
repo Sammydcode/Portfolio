@@ -17,7 +17,7 @@ A results-driven **data analyst and machine learning enthusiast** specializing i
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
 ### AirBnb Market Analysis 
-**[View Project]([https://github.com/Sammydcode/Portfolio/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb](https://github.com/Sammydcode/Portfolio/commit/f251879ac676944426689955ef833f90a042afd6))**  
+**[View Project](https://github.com/Sammydcode/Portfolio/commit/f251879ac676944426689955ef833f90a042afd6)**  
 **Description:** Conducted an in-depth analysis of Airbnb listings in New York City, exploring pricing trends, occupancy rates, and location-based patterns. Leveraged Python for data cleaning, analysis, and visualization to uncover insights that help hosts optimize pricing strategies and assist travelers in making informed booking decisions.  
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
