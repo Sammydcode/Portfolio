@@ -16,9 +16,9 @@ A results-driven **data analyst and machine learning enthusiast** specializing i
 **Description:** Conducted an in-depth analysis of **share investments across 2,000 companies**, identifying stock trends, risk factors, and optimal investment strategies.  
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
-### Share Investment Analysis  
-**[View Project](https://github.com/Sammydcode/Portfolio/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb)**  
-**Description:** Conducted an in-depth analysis of **share investments across 2,000 companies**, identifying stock trends, risk factors, and optimal investment strategies.  
+### AirBnb Market Analysis 
+**[View Project]([https://github.com/Sammydcode/Portfolio/blob/main/DATA%20ANALYSIS%20(Share%20investment%20analysis).ipynb](https://github.com/Sammydcode/Portfolio/commit/f251879ac676944426689955ef833f90a042afd6))**  
+**Description:** Conducted an in-depth analysis of Airbnb listings in New York City, exploring pricing trends, occupancy rates, and location-based patterns. Leveraged Python for data cleaning, analysis, and visualization to uncover insights that help hosts optimize pricing strategies and assist travelers in making informed booking decisions.  
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 
 ---
@@ -27,7 +27,6 @@ A results-driven **data analyst and machine learning enthusiast** specializing i
 
 - **Programming:** Python, SQL  
 - **Data Analysis & BI:** Power BI, Excel  
-- **Machine Learning:** Scikit-Learn  
 - **Databases:** MySQL  
 - **Version Control:** Git, GitHub  
 
